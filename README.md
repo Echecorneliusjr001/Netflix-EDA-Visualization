@@ -40,9 +40,13 @@ Perform data cleaning and preprocessing, which may involve handling missing valu
        
     
 #value_counts method shows the count of different categories in a given country
+
 df5.type.value_counts()
+
 output result:
+
 Movie      3678
+
 TV Show      96
 
   ---
