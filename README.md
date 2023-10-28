@@ -1,5 +1,5 @@
 # Netflix-EDA-Visualization
-An analysis of Netflix shows based on viewer's perspective.
+An analysis of Netflix shows based on viewer's  and country's perspective.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -128,4 +128,4 @@ ready to go with the kind of data I had in my dataset.
 ### References
  Seaborn cheatography by Sanjeev95
  
- Numpy cheatography by Sanjeev95.
+ Netflix dataset (Website).
