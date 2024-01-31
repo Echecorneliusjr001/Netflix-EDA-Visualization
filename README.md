@@ -1,5 +1,5 @@
 # Netflix-EDA-Visualization
-An analysis of Netflix shows based on viewer's  and country's perspective.
+An analysis of Netflix shows based on viewer's  and country's perspectives.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -34,7 +34,7 @@ Perform data cleaning and preprocessing, which may involve handling missing valu
 
   ### Data Analysis
   
-  Include some intersting code/features worked with
+  Include some interesting code/features worked with
   
   ---
        
@@ -72,26 +72,26 @@ TV Show      96
 
   ### Results/Findings
   
-  Here is the findings for the questions;
+  Here are the findings for the questions;
   **1. 2017 was the year with the highest count of shows.**
   
   ![Highest count of shows](https://github.com/Echecorneliusjr001/Netflix-EDA-Visualization/assets/149030759/fa643e36-29fa-422f-81ae-6aaef890c1bb)
 
- **2. More movies were showed on netflix than TV shows.**
+ **2. More movies were shown on Netflix than on TV shows.**
  
   ![Movies VS TV shows](https://github.com/Echecorneliusjr001/Netflix-EDA-Visualization/assets/149030759/909ea3d5-2ec8-4c40-901b-50e16a654c31)
 
   **3. Movies are the most prevalent on Netflix.**
   
-  **4. United States of America has the highest contribution to netflix content.**
+  **4. The United States of America has the highest contribution to Netflix content.**
   
-  **5. The United states of America leads in all categories.**
+  **5. The United States of America leads in all categories.**
   ![Top 10 countries](https://github.com/Echecorneliusjr001/Netflix-EDA-Visualization/assets/149030759/44acf179-ba7e-4e09-b145-2c17e9609bb0)
 
   **6. TV-MA has the highest rating category with the highest count.**
   ![Ratings](https://github.com/Echecorneliusjr001/Netflix-EDA-Visualization/assets/149030759/d7bcc424-8f26-485c-8b2a-8b3f1f08390d)
 
-  **7. Documentaries is the genre with the highest count.**
+  **7. Documentaries are the genre with the highest count.**
   ![Top 5 genre](https://github.com/Echecorneliusjr001/Netflix-EDA-Visualization/assets/149030759/e82f2c47-041b-4d95-8b7a-9853b4815fc5)
 
     
@@ -125,11 +125,11 @@ In line with the insights gained, Netflix could collaborate with content creator
 By following these recommendations and engaging in strategic collaborations, Netflix can continue to provide an extensive and diverse content library that meets the evolving demands and interests of its subscribers. 📺🤝 #Netflix #ContentStrategy #Contributions
 
 ### Limitations
-using seaborn in obtaining the visualization was a lot, which i decided to run few of the visualizations with matplotlib libraries in order for me to get the visualizations 
+Using Seaborn to obtain the visualization was a lot, so I decided to run a few of the visualizations with Matplotlib libraries for me to get the visualizations 
 ready to go with the kind of data I had in my dataset.
 
 
 ### References
  Seaborn cheatography by Sanjeev95
  
- Netflix dataset (Website).
+ Netflix dataset (Website)
