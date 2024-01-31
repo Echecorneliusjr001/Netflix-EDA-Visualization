@@ -1,4 +1,4 @@
-# Netflix-EDA-Visualization
+# Netflix-EDA & Visualization
 An analysis of Netflix shows based on viewer's  and country's perspectives.
 
 ## Table of Contents
